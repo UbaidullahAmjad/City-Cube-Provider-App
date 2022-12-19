@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout     xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+      android:layout_margin="@dimen/_5sdp"
+    >
+<ImageView
+    android:id="@+id/ivAdd"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_80sdp"
+    android:src="@drawable/ic_plus1"
+    android:scaleType="centerCrop"
+    />
+    <ImageView
+        android:id="@+id/ivUpload"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_80sdp"
+        android:background="@color/lt_gray"
+        android:scaleType="centerCrop"
+        />
+</RelativeLayout>
+</layout>

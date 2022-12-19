@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">CityCube Provider</string>
+    <string name="api_key">AIzaSyAXTJrvnDTC8AjYzK2dPatsSAMJaTIc-c0</string>
+    <string name="following">Suivant</string>
+    <string name="continue_with_email">Continuer avec l\'e-mail</string>
+    <string name="welcome_to">Bienvenue à</string>
+    <string name="continue_with_facebook">Continuer avec Facebook</string>
+    <string name="continue_with_google">Continuer avec Google</string>
+    <string name="sign_in">S\'identifier</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="email">E - mail</string>
+    <string name="phone">Téléphoner</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="don_t_have_an_account_sign_up">Vous n\'avez pas de compte ? S\'inscrire</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="get_started">Commencer</string>
+    <string name="email_or_phone_number">Courriel ou numéro de téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="please_login_to_continue_app">Veuillez vous connecter pour continuer l\'application</string>
+    <string name="confirm_password">Confirmez le mot de passe</string>
+    <string name="already_have_an_account_login">Vous avez déjà un compte? Connexion</string>
+    <string name="the_courier_will_look_for_n_your_order_and_deliver_it_to_n_you_in_minutes">Le coursier cherchera <br />votre commande et livrez-la à <br />vous en quelques minutes</string>
+    <string name="start_by_defining_a_delivery_n_address">Commencer par définir une livraison<br /> adresse</string>
+    <string name="add_location">Ajouter un emplacement</string>
+    <string name="location_pinning">Épinglage de l\'emplacement</string>
+    <string name="departure_address">Adresse de départ</string>
+    <string name="arrieval_address">Adresse d\'arrivée</string>
+    <string name="continue1">Continuer</string>
+    <string name="ride_history">Historique des courses</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_vehicle">Sélectionnez le véhicule</string>
+    <string name="motorcycle">Moto</string>
+    <string name="heavy_vehicle">Véhicule lourd</string>
+    <string name="numbers_of_passengers">Nombre de passagers</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="select_time">Sélectionnez l\'heure</string>
+    <string name="reversation">Réservation</string>
+    <string name="contact_info">Informations de contact</string>
+    <string name="name">Nom</string>
+    <string name="parcel_receiver_info">Informations sur le destinataire du colis</string>
+    <string name="handling_service">Service de manutention</string>
+    <string name="payment_option">Modalité de paiement</string>
+    <string name="pay_on_visit">Payer sur visite (espèces)</string>
+    <string name="bill_details">Détails de la facture</string>
+    <string name="delivery_charge">Frais de livraison</string>
+    <string name="live_tracking">Suivi en direct</string>
+    <string name="in_progress">En cours</string>
+    <string name="completed">Terminé</string>
+    <string name="order_history">Historique des commandes</string>
+    <string name="log_out">Se déconnecter</string>
+    <string name="general">Générale</string>
+    <string name="notification">Notification</string>
+    <string name="leave_a_rating_to_help_us_improve">Laissez une note à, aidez-nous à nous améliorer !</string>
+    <string name="my_profile">Mon profil</string>
+
+    <string name="promotion">Promotion</string>
+    <string name="share">Partager</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="home">Domicile</string>
+    <string name="package_cost">Coût du forfait</string>
+    <string name="to_pay">Payer</string>
+    <string name="share_citycube_with_your_friends_and_earn_n_rewards_when_they_join">Partagez citycube avec vos amis et gagnez<br /> récompenses lorsqu\'ils rejoignent</string>
+    <string name="share_with_your_friends">Partage avec tes amis</string>
+    <string name="redem_discounts_and_ride_credits">Échangez des remises et des crédits de trajet</string>
+    <string name="enter_the_promo_code">Entrez le code promotionnel</string>
+    <string name="edit_profile">Editer le profil</string>
+    <string name="old_password">ancien mot de passe</string>
+    <string name="new_password">nouveau mot de passe</string>
+    <string name="submit">Soumettre</string>
+    <string name="change_password">Changer le mot de passe</string>
+
+
+
+
+    <string name="vehicle_type">Type de véhicule</string>
+    <string name="vehicle_brand">Marque de véhicule</string>
+    <string name="vehicle_model">Modèle de véhicule</string>
+    <string name="vehicle_number_plate">Plaque d\'immatriculation du véhicule</string>
+    <string name="vehicle_color">Couleur du véhicule</string>
+    <string name="add_vehicle">Ajouter un véhicule</string>
+    <string name="upload_vehicle_image">Télécharger l\'image du véhicule</string>
+    <string name="upload_document">télécharger un document</string>
+    <string name="add">Ajouter</string>
+    <string name="add_account_details">Ajouter les détails du compte</string>
+    <string name="account_holder_name">Nom du titulaire du compte</string>
+    <string name="bank_name">Nom de banque</string>
+    <string name="bank_code">Code bancaire</string>
+    <string name="account_type">Type de compte</string>
+    <string name="account_number">Numéro de compte</string>
+    <string name="add_account">Ajouter un compte</string>
+    <string name="my_runs">Mes courses</string>
+    <string name="available_runs">Courses disponibles</string>
+    <string name="settings">Paramètres</string>
+    <string name="where_i_m_going">Où je vais</string>
+    <string name="recipient_with_the_delivery_location_address">Destinataire avec l\'adresse du lieu de livraison</string>
+    <string name="report_an_issue">Signaler un problème</string>
+    <string name="document">Document</string>
+    <string name="customer_signature">Signature du client</string>
+    <string name="photos_of_unloading">Photos de déchargement</string>
+    <string name="number_of_items">Nombre d\'objets</string>
+    <string name="package_weight">Poids du paquet</string>
+    <string name="where_i_will_end_up">Où je finirai</string>
+    <string name="image">Image</string>
+    <string name="accept">J\'accepte</string>
+    <string name="delivery_details">détails de livraison</string>
+    <string name="photos_of_loading">Photos de chargement</string>
+    <string name="order_summary">Récapitulatif de la commande</string>
+    <string name="my_ride">Ma course</string>
+    <string name="active">Active</string>
+    <string name="cancel">Annuler</string>
+    <string name="invoice">Facture d\'achat</string>
+    <string name="my_reviews">Mes avis</string>
+    <string name="change_your_vehicle_type">Changez votre type de véhicule</string>
+    <string name="my_review">Mon avis</string>
+    <string name="terms_and_conditions">Termes et conditions</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="about">À propos de</string>
+    <string name="wallet">Portefeuille</string>
+    <string name="current_balance">Solde actuel</string>
+    <string name="all_transactions">toutes transactions</string>
+    <string name="withdrawal_money">Retrait d\'argent</string>
+
+
+
+    <string name="password_does_not_matched">Le mot de passe ne correspond pas</string>
+    <string name="please_enter_confirm_pass">Veuillez saisir le mot de passe de confirmation</string>
+    <string name="please_enter_pass">Veuillez entrer le mot de passe</string>
+    <string name="please_enter_username">Veuillez saisir le nom d\'utilisateur</string>
+    <string name="please_enter_mobile_number">Veuillez entrer le numéro de téléphone</string>
+    <string name="please_enter_email">Veuillez entrer l\'e-mail</string>
+    <string name="wrong_email">Impossible d\'entrer l\'e-mail usé.</string>
+    <string name="please_wait">S\'il vous plaît, attendez...</string>
+    <string name="network_failure">Pardon! Non connecté à Internet</string>
+    <string name="thank_you_for_signing_up">Merci de vous être inscrit!</string>
+    <string name="sign_in_successful">Connexion réussie!</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Caméra</string>
+    <string name="select_image_from">Sélectionnez l\'image de</string>
+    <string name="send">Envoyer</string>
+    <string name="forgotpasswordtext">S\'il vous plaît, entrez votre adresse e-mail. Vous serez
+       <br /> recevoir un lien pour créer un nouveau mot de passe via<br /> e-mail.</string>
+    <string name="link_send_successfully_your_email">Lien envoyer votre email avec succès</string>
+
+
+
+    <string name="select_year">Sélectionnez l\'année</string>
+    <string name="please_upload_vehicle_image">Veuillez télécharger l\'image du véhicule</string>
+    <string name="please_select_service_type">Veuillez sélectionner le type de véhicule</string>
+    <string name="please_select_brand">Veuillez sélectionner la marque</string>
+    <string name="please_select_model">Veuillez sélectionner le modèle de véhicule</string>
+    <string name="please_enter_year">Veuillez saisir l\'année</string>
+    <string name="please_enter_vehicle_number">Veuillez saisir le numéro du véhicule</string>
+    <string name="please_enter_vehicle_color">Veuillez saisir la couleur du véhicule</string>
+    <string name="new_booking_request">Nouvelle demande de réservation</string>
+    <string name="are_you_sure_you_have_accept_booking_request">Êtes-vous sûr d\'avoir accepté la demande de réservation ?</string>
+    <string name="no_booking_available">Aucune réservation disponible</string>
+    <string name="cancelled">Annulé</string>
+    <string name="start">Début</string>
+    <string name="slide_to_unloading_complete">Glisser jusqu\'au déchargement terminé</string>
+    <string name="slide_to_start_loading">Faites glisser pour commencer le chargement</string>
+
+
+
+    <string name="place_api_key">AIzaSyC4Eg_qGdkZrcW-td6QsmJAk2g4nzPaat0</string>
+    <string name="type_msg">Tapez le message</string>
+    <string name="new_chat_msg_user">Nouveau message de chat de l\'utilisateur</string>
+    <string name="arrived">Arrivée</string>
+    <string name="please_upload_loading_image">Veuillez télécharger l\'image de chargement.</string>
+    <string name="upload">Télécharger</string>
+    <string name="unloading_complete">Déchargement terminé.</string>
+    <string name="unloading_image">Décharger l\'image</string>
+    <string name="take_signature">Prendre la signature</string>
+    <string name="clear">Dégager</string>
+    <string name="save">sauver</string>
+    <string name="please_add_signature">Veuillez ajouter une signature</string>
+    <string name="are_you_sure_you_have_arrived_at_departure_location_of_user">Êtes-vous sûr d\'être arrivé au lieu de départ de l\'utilisateur</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="please_upload_unloading_image">Veuillez télécharger l\'image de déchargement</string>
+    <string name="your_service_done">Votre service est effectué avec succès</string>
+    <string name="upload_license">Télécharger la licence</string>
+    <string name="vehicle_name">Nom du véhicule</string>
+    <string name="no_rating_available">Aucune évaluation disponible</string>
+    <string name="english">Anglaise</string>
+    <string name="french">français</string>
+
+</resources>
